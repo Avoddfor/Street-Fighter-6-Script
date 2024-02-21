@@ -3,7 +3,7 @@ Street fighter 6 Private External Bot - Script Cheat - Evade - Combo - All modes
 
 
 <div align="center">
-  <img src="![image](https://github.com/Avoddfor/Street-Fighter-6-Script/assets/160798053/a8ede31c-8b90-4cd0-90ba-d87ee9e0875f)" alt="Suki">
+  <img src="![image]https://github.com/Avoddfor/Street-Fighter-6-Script/assets/160798053/a8ede31c-8b90-4cd0-90ba-d87ee9e0875f" alt="Suki">
 (screenshot of szukiii on discord)
 </div>
 
