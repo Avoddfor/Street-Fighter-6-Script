@@ -15,7 +15,7 @@ Street fighter 6 Private External Bot - Script Cheat - Evade - Combo - All modes
 A Private Street Fighter 6 External Bot & Cheats repository! This external bot and cheats package brings an array of features to elevate your Street Fighter 6 funny experience.
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/QuEmA8665D)
-![Version](https://img.shields.io/badge/version-4.5-blue.svg)
+![Version](https://img.shields.io/badge/version-4.6-blue.svg)
 
 
 ## Features
